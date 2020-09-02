@@ -18,6 +18,7 @@
 # Using Git for Version Control
 ![git_overview](pictures./git-flow-header.jpeg)
 
+
 ## Week 4 (Afterword D)
 Version control software allows you to take snapshots of a project whenever it’s in a working state. When you make changes to a project—for example, when you implement a new feature—you have the option of reverting back to a previous working state if the project’s current state isn’t functioning well. 
 Using version control software gives you the freedom to work on improvements and make mistakes without worrying about ruining your project. This is especially critical in large projects, but can also be helpful in smaller projects, even when you’re working on programs contained in a single file.
