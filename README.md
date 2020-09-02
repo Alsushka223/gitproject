@@ -14,6 +14,8 @@
 
 [google link] (https://www.google.com/)
 ! [picture_name_but_not displayed] (folder/picture.png)
+# Using Git for Version Control
+![git_overview] (pictures/git-flow-header.jpeg)
 
 
 # Week 4
